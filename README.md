@@ -1,1 +1,1 @@
-# terraform-ec2-infra
+# Simple Flask app
